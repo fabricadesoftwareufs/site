@@ -20,10 +20,10 @@
 
 title: Fábrica de Software
 email: fabricadesoftware@ufs.br
-description: >- # 
-baseurl: "site" # the subpath of your site, e.g. /blog
+description: >- #
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: fabricadesoftwareufs
+instagram_username: fabricadesoftwareufs
 github_username:  fabricadesoftwareufs
 
 # Build settings
