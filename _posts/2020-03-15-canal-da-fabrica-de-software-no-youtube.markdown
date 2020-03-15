@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Canal da Fábrica de Software no Youtube"
-date:   2020-03-15 14:16:51 -0300
+date:   2020-03-15 18:16:51 -0300
 categories: tutoriais
 ---
 
