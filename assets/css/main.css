@@ -24,7 +24,8 @@
 		display: block;
 	}
 
-	body {
+	body {	
+		 background-color: lightblue;
 		line-height: 1;
 	}
 
