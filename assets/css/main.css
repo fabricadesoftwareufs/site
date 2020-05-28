@@ -3516,7 +3516,7 @@
 	#banner {
 		background-color: #00cdcf;
 		color: #ffffff;
-		padding: 8em 0 6em 0;
+		padding: 4em 0 2em 0;
 		text-align: center;
 	}
 
@@ -3652,7 +3652,7 @@
 		@media screen and (max-width: 1680px) {
 
 			#banner {
-				padding: 8em 0 6em 0;
+				padding: 4em 0 2em 0;
 			}
 
 		}
@@ -3660,7 +3660,7 @@
 		@media screen and (max-width: 1280px) {
 
 			#banner {
-				padding: 6em 0 4em 0;
+				padding: 4em 0 2em 0;
 			}
 
 				#banner h2 {
