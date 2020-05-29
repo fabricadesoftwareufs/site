@@ -25,7 +25,7 @@
 	}
 
 	body {	
-		 background-color: lightblue;
+		background-color: lightblue;
 		line-height: 1;
 	}
 
@@ -3514,7 +3514,7 @@
 /* Banner */
 
 	#banner {
-		background-color: #00cdcf;
+		background-color: #150098;
 		color: #ffffff;
 		padding: 4em 0 2em 0;
 		text-align: center;
@@ -3652,7 +3652,7 @@
 		@media screen and (max-width: 1680px) {
 
 			#banner {
-				padding: 4em 0 2em 0;
+				padding: 1em 0 0em 0;
 			}
 
 		}

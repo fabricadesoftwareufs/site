@@ -6,8 +6,8 @@
   font-family: 'Montserrat',sans-serif;
 }
 nav{
-  background: #00cdcf;
-  padding: 5px 40px;
+  background: #150098;
+  padding: 0px 0px;
 }
 nav ul{
   list-style: none;
@@ -21,9 +21,9 @@ nav ul li{
   cursor: pointer;
 }
 nav ul li.items{
-  position: non;
+  position: none;
   width: auto;
-  margin: 0 16px;
+  margin: 0 1px;
   text-align: center;
   order: 3;
 }
@@ -31,7 +31,7 @@ nav ul li.items:after{
   position: absolute;
   content: '';
   left: 0;
-  bottom: 2px;
+  bottom: 5px;
   height: 2px;
   width: 100%;
   background: #33ffff;
@@ -40,7 +40,7 @@ nav ul li.items:after{
 }
 nav ul li.items:hover:after{
   opacity: 1;
-  bottom: 2px;
+  bottom: 8px;
 }
 nav ul li.logo{
   flex: 1;
@@ -51,7 +51,7 @@ nav ul li.logo{
   user-select: none;
 }
 nav ul li a{
-  color: white;
+  color: #0086bf;
   font-size: 18px;
   text-decoration: none;
   transition: .4s;
