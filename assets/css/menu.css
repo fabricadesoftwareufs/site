@@ -6,7 +6,7 @@
   font-family: 'Montserrat',sans-serif;
 }
 nav{
-  background: #150098;
+  background: #007bff;
   padding: 0px 0px;
 }
 nav ul{
@@ -51,7 +51,7 @@ nav ul li.logo{
   user-select: none;
 }
 nav ul li a{
-  color: #0086bf;
+  color: white;
   font-size: 18px;
   text-decoration: none;
   transition: .4s;
