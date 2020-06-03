@@ -1,5 +1,6 @@
 @import url(font-awesome.min.css);
 @import url("http://fonts.googleapis.com/css?family=Raleway:300,700");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap%22%20rel=%22stylesheet%22");
 
 /*
 	Typify by TEMPLATED
@@ -1591,8 +1592,16 @@
 		color: #444;
 	}
 
-	body, input, select, textarea {
+	nav, footer, section {
 		font-family: "Raleway", Arial, Helvetica, sans-serif;
+		font-size: 14pt;
+		font-weight: 300;
+		letter-spacing: 0.09em;
+		line-height: 1.65em;
+	}
+
+	p{
+		font-family: "Open Sans";
 		font-size: 14pt;
 		font-weight: 300;
 		letter-spacing: 0.09em;
