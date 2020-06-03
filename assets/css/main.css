@@ -2717,7 +2717,7 @@
 	}
 
 		.feature .fa {
-			font-size: 2.8em;
+			font-size: 1.35em;
 			margin-bottom: 0.7em;
 		}
 
@@ -3862,7 +3862,7 @@
 				min-height: auto;      /* Mínimo da altura, por padrão "auto" */   }
 
 		.parceiro {            
-			max-width: 600px;          
-			width: 85%;  
+			max-width: 250px;          
+			width: 100%;  
 			margin: 0 auto;          
 			height: auto;    }  
