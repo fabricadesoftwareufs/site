@@ -2715,7 +2715,7 @@
 	}
 
 		.feature .fa {
-			font-size: 1.35em;
+			font-size: 1.75em;
 			margin-bottom: 0.7em;
 		}
 
@@ -3850,7 +3850,9 @@
 		.responsive {            
 			max-width: 600px;          
 			width: 100%;  
-			margin: 0 auto;          
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
 			height: auto;    }  
 			
 			.responsive  img{        
@@ -3860,7 +3862,9 @@
 				min-height: auto;      /* Mínimo da altura, por padrão "auto" */   }
 
 		.parceiro {            
-			max-width: 250px;          
+			max-width: 300px;          
 			width: 100%;  
-			margin: 0 auto;          
+			display: block;
+			margin-left: auto;
+			margin-right: auto;         
 			height: auto;    }  
