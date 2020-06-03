@@ -1,6 +1,7 @@
 @import url(font-awesome.min.css);
 @import url("http://fonts.googleapis.com/css?family=Raleway:300,700");
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap%22%20rel=%22stylesheet%22");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
 /*
 	Typify by TEMPLATED
@@ -1592,7 +1593,7 @@
 		color: #444;
 	}
 
-	nav, footer, section {
+	nav, footer{
 		font-family: "Raleway", Arial, Helvetica, sans-serif;
 		font-size: 14pt;
 		font-weight: 300;
@@ -1673,6 +1674,7 @@
 		line-height: 1em;
 		margin: 0 0 1em 0;
 		text-transform: uppercase;
+		font-family: "Roboto";
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
