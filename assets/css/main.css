@@ -3867,4 +3867,9 @@
 			display: block;
 			margin-left: auto;
 			margin-right: auto;         
-			height: auto;    }  
+			height: auto;  } 
+
+		.fonte-parceiro{
+			color: #008ac8;
+			font-size: 28px;
+			text-align: center;  } 
