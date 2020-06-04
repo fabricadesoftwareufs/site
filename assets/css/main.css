@@ -1,5 +1,4 @@
 @import url(font-awesome.min.css);
-@import url("http://fonts.googleapis.com/css?family=Raleway:300,700");
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap%22%20rel=%22stylesheet%22");
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
@@ -1594,7 +1593,7 @@
 	}
 
 	nav, footer{
-		font-family: "Raleway", Arial, Helvetica, sans-serif;
+		font-family: "Roboto";
 		font-size: 14pt;
 		font-weight: 300;
 		letter-spacing: 0.09em;
@@ -2095,7 +2094,7 @@
 		.select-wrapper:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
+			font-family: "Roboto";
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -2159,7 +2158,7 @@
 			input[type="radio"] + label:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: FontAwesome;
+				font-family: "Roboto";
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
@@ -2294,7 +2293,7 @@
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
+			font-family: "Roboto";
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
