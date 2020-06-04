@@ -1,4 +1,5 @@
 @import url(font-awesome.min.css);
+@import url("http://fonts.googleapis.com/css?family=Raleway:300,700");
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap%22%20rel=%22stylesheet%22");
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
@@ -1592,7 +1593,7 @@
 		color: #444;
 	}
 
-	nav, footer{
+	nav {
 		font-family: "Roboto";
 		font-size: 14pt;
 		font-weight: 300;
@@ -1600,7 +1601,7 @@
 		line-height: 1.65em;
 	}
 
-	p{
+	p {
 		font-family: "Open Sans";
 		font-size: 14pt;
 		font-weight: 300;
@@ -1669,11 +1670,10 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
+		font-family: "Roboto";
 		font-weight: 300;
 		line-height: 1em;
 		margin: 0 0 1em 0;
-		text-transform: uppercase;
-		font-family: "Roboto";
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -1783,7 +1783,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #555;
+		color: #008ac8;
 	}
 
 	blockquote {
@@ -2293,7 +2293,7 @@
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: "Roboto";
+			font-family: FontAwesome;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
