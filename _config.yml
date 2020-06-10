@@ -1,3 +1,30 @@
+backend:
+  name: github
+  repo: fabricadesoftwareufs/site
+  branch: master
+  site_domain: https://fabricadesoftwareufs.github.io/site/
+
+# Site informations
+
 title: Fábrica de Software KNUTH
 email: fabricadesoftware@ufs.br
 address: Av. Marechal Rondon, s/n - Jardim Rosa Elze, São Cristóvão - SE, 49100-000 (Prédio do antigo DCOMP)
+description: >- # Fábrica de Software KNUTH!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+plugins:
+  - jekyll-feed
+
+exclude:
+   - .sass-cache/
+   - .jekyll-cache/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - node_modules/
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
