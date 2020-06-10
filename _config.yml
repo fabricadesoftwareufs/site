@@ -1,6 +1,3 @@
 title: Fábrica de Software KNUTH
 email: fabricadesoftware@ufs.br
 address: Av. Marechal Rondon, s/n - Jardim Rosa Elze, São Cristóvão - SE, 49100-000 (Prédio do antigo DCOMP)
-
-plugins:
-  - jekyll-feed
