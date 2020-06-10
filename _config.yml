@@ -7,13 +7,7 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-<<<<<<< .mine
-# 
-||||||| .r72
 #
-=======
-#  
->>>>>>> .r77
 # If you need help with YAML syntax, here are some quick references for you: 
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
@@ -37,7 +31,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: knuth
+theme: minima
 plugins:
   - jekyll-feed
 

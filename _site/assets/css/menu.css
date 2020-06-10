@@ -34,7 +34,6 @@ nav ul li.items:after{
   bottom: 5px;
   height: 2px;
   width: 100%;
-  background: #33ffff;
   opacity: 0;
   transition: all 0.2s linear;
 }
