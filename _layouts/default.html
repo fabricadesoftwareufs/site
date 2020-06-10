@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    {% include head.html %}
+    <body>
+        {% include header-nav.html %}
+        <section id="one" class="special">
+            <h2 id="content"> {{ page.title }} </h2>
+        </section>
+        <section id="three" class="wrapper">
+			<div class="inner">
+                <p class="image fit">{{content}}</p>
+            </div>
+        </section>
+        {% include footer.html %}
+    </body>
+</html>

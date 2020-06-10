@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    {% include head.html %}
+    <body>
+        {% include header-nav.html %}
+		<section id="one" class="special">
+			<h2 id="content"> {{ page.title }} </h2>
+			<div class="features">
+				<div class="feature">-
+						<i class="fa fa-paper-plane"></i>
+						<h4>E-mail</h6>
+						<p> {{site.email}}</p>
+						<i class="fa fa-envelope"></i>
+						<h4>Endereço</h6>
+						<p> {{site.address}}</p>
+					</div>
+				</div>
+			</div>
+		</section>
+        {% include footer.html %}
+    </body>
+</html>
