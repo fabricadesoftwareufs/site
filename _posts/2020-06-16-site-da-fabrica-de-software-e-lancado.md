@@ -2,10 +2,10 @@
 title-produto: Site da Fábrica de Software é lançado!
 author: João Alves
 layout: post
-description: A versão 1.0 do site é lançada para toda sociedade!
+description: A primeira versão do site é lançada para toda sociedade!
 ---
 
-No último dia 16 de junho. A versão 1.0 do site da Fábrica de Software KNUTH foi lançada para toda sociedade! Entre algumas
+No último dia 16 de junho. A primeira versão do site da Fábrica de Software KNUTH foi lançada para toda sociedade! Entre algumas
 novidades temos os posts divididos em três categorias: projetos, tutoriais e produtos. Projetos é qualquer ação realizada
 pela Fábrica e seus parceiros, um dos projetos realizados até agora estão o apoio da KNUTH à 6ª Semana de Informática (SEMINFO).
 Produtos é qualquer dispositivo ou software desenvolvido pela KNUTH e seus parceiros, um produto desenvolvido foi o Monitora SUS no qual

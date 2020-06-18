@@ -12,6 +12,7 @@
 					<h1>{{ page.date | date_to_string }}</h1>
 				{% endif %}
 				<p class="image fit">{{content}}</p>
+				{% include comments.html %}
 			</div>
 		</section>
         {% include footer.html %}
