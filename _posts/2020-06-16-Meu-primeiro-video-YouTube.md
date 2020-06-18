@@ -1,6 +1,6 @@
 ---
-title-produto: Meu primeiro vídeo YouTube
+title-produto: Site da Fábrica de Software é lançado!
 author: João Alves
 layout: post
-description: Primeiro vídeo postado no YouTube com sucesso!
+description: A versão 1.0 do site é lançada para toda sociedade!
 ---
