@@ -4,13 +4,15 @@
     <body>
         {% include header-nav.html %}
         <section id="three" class="wrapper">
-			<div class="inner">
-                <p class="image fit">    
-                    {% assign sorted-posts = site.posts | where: "categories","projetos" %}
-                    {% for post in sorted-posts limit: 10 %}
-                        <h2><a href="/site{{ post.url }}">{{ post.title-projeto}}</a><h2>
-                    {% endfor %}
-                </p>
+			<div class="inner">  
+                {% assign sorted-posts = site.posts | where: "categories","projetos" %}
+                {% for post in sorted-posts limit: 3 %}
+                    <h2> <a href="/site{{ post.url }}"> {{ post.title-projeto}} </a><h2>
+                    <h1> {{ post.description }} </h1>
+                    <ul class="actions">
+                        <li><a href="/site{{ post.url }}" class="button special">Leia mais</a></li>
+                    </ul>
+                {% endfor %}
             </div>
         </section>
         {% include footer.html %}

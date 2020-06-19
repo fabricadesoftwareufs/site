@@ -1651,6 +1651,7 @@
 
 	a {
 		text-decoration: underline;
+		text-align: left;
 	}
 
 		a:hover {
@@ -1673,7 +1674,7 @@
 		font-family: "Roboto";
 		font-weight: 300;
 		line-height: 1em;
-		margin: 0 0 1em 0;
+		margin: 0 0 0.4em 0;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -1843,9 +1844,9 @@
 		border: 0;
 		cursor: pointer;
 		display: inline-block;
-		height: 2.85em;
-		line-height: 2.95em;
-		padding: 0 1.5em;
+		height: 1em;
+		line-height: 1em;
+		padding: 0 0.2em;
 		text-align: center;
 		text-decoration: none;
 		text-transform: uppercase;
@@ -3855,7 +3856,7 @@
 
 		}
 		a {
-			margin: 10px 10px;
+			margin: 10px 0px;
 			flex-direction: row;
 			flex-wrap: wrap;
 		}
