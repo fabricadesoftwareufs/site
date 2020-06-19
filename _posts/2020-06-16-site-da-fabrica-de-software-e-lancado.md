@@ -1,6 +1,9 @@
 ---
 title-produto: Site da Fábrica de Software é lançado!
+title-page: Site da Fábrica de Software é lançado!
+title: Site da Fábrica de Software é lançado!
 author: João Alves
+categories: produtos
 layout: post
 description: A primeira versão do site é lançada para toda sociedade!
 ---

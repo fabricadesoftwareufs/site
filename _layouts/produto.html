@@ -3,14 +3,12 @@
     {% include head.html %}
     <body>
         {% include header-nav.html %}
-        <section id="one" class="special">
-			<h2 id="content"> {{ page.title }} </h2>
-		</section>
         <section id="three" class="wrapper">
 			<div class="inner">
                 <p class="image fit">    
-                    {% for post in site.posts %}
-                    <h2><a href="/site{{ post.url }}">{{ post.title-produto}}</a><h2>
+                    {% assign sorted-posts = site.posts | where: "categories","produtos" %}
+                    {% for post in sorted-posts limit: 10 %}
+                        <h2><a href="/site{{ post.url }}">{{ post.title-produto}}</a><h2>
                     {% endfor %}
                 </p>
             </div>

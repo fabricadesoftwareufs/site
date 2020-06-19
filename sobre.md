@@ -1,5 +1,6 @@
 ---
 title: Sobre
+title-page: Sobre
 layout: sobre
 ---
 

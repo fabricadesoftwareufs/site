@@ -1,5 +1,6 @@
 ---
 title: Projetos
+title-page: Projetos
 layout: projeto
 ---
 
