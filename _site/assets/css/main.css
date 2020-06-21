@@ -1844,9 +1844,9 @@
 		border: 0;
 		cursor: pointer;
 		display: inline-block;
-		height: 1em;
-		line-height: 1em;
-		padding: 0 0.2em;
+		height: 2.85em;
+		line-height: 2.95em;
+		padding: 0 1.5em;
 		text-align: center;
 		text-decoration: none;
 		text-transform: uppercase;

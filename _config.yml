@@ -12,6 +12,15 @@ address: Av. Marechal Rondon, s/n - Jardim Rosa Elze, São Cristóvão - SE, 491
 description: >- # Fábrica de Software KNUTH!
 baseurl: "/site" # the subpath of your site, e.g. /blog
 url: "fabricadesoftwareufs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+mpaginate: 2
+
+default:
+  -
+    scope:
+      path: "/page"
+    values:
+      layout: default
+      language: man
 
 # Build settings
 plugins:
