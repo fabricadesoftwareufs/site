@@ -3,9 +3,10 @@ title-produto: Site da Fábrica de Software é lançado!
 title-page: Site da Fábrica de Software é lançado!
 title: Site da Fábrica de Software é lançado!
 author: João Alves
-categories: produtos
+categories: produtos software
 layout: post
 description: No último dia 16 de junho. A primeira versão do site da Fábrica de Software KNUTH foi lançada para toda sociedade!   
+permalink: /:categories/:year/:month/:day/:title.html
 ---
 
 No último dia 16 de junho. A primeira versão do site da Fábrica de Software KNUTH foi lançada para toda sociedade! Entre algumas
