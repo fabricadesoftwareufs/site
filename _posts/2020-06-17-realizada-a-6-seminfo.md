@@ -1,6 +1,7 @@
 ---
 title-projeto: VI SEMINFO é realizada no Campus Prof. Alberto Carvalho
 title-page: VI SEMINFO é realizada no Campus Prof. Alberto Carvalho
+title: VI SEMINFO é realizada no Campus Prof. Alberto Carvalho
 author: João Alves
 number: 3
 categories: projetos eventos

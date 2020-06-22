@@ -9,14 +9,16 @@ const getPosts = async () => {
 
 const addPostsIntoDOM = async() => {
     const posts = await getPosts()
-    const postsTemplate = posts.map(({number, title}) => `
+    const postsTemplate = posts.map(({number, title, description}) => `
         <h2>${number}</h2>
         <h2>${title}</h2>
+        <p>${description}</p>
     `).join('')
 
     postsContainer.innerHTML += postsTemplate
 }
 
 addPostsIntoDOM()
+
 
 /* O vídeo acaba em 22:48 -- */
