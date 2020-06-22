@@ -10,7 +10,7 @@ const getPosts = async () => {
 const addPostsIntoDOM = async() => {
     const posts = await getPosts()
     const postsTemplate = posts.map(({number, title, url, description}) => `
-        <h2> <a href="${url}"> ${title} </a> </h2>
+        <h2> <a href=${url}> ${title} </a> </h2>
         <p>${description}</p>
     `).join('')
 
