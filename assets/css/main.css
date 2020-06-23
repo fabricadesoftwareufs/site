@@ -1844,8 +1844,8 @@
 		border: 0;
 		cursor: pointer;
 		display: inline-block;
-		height: 2.85em;
-		line-height: 2.95em;
+		height: 1em;
+		line-height: 1em;
 		padding: 0 1.5em;
 		text-align: center;
 		text-decoration: none;
@@ -3891,3 +3891,39 @@
 			color: #008ac8;
 			font-size: 28px;
 			text-align: center;  } 
+
+
+		.loader {
+			display: block;
+			margin-left: auto;
+			margin-right: auto; 
+			border: 8px solid rgba(0,0,0, .1);
+			border-left-color: #008ac8;
+			height: 45px;
+			width: 45px;
+			border-radius: 50px;
+			animation: spin 1s linear infinite;
+		}
+			  
+		.loader.show {
+			opacity: 1;
+		}
+
+		.loader:nth-of-type(2) {
+			animation-delay: 0.1s;
+		  }
+		  
+		  .loader:nth-of-type(3) {
+			animation-delay: 0.2s;
+		  }
+
+		@keyframes spin { 
+			to { transform: rotate(360deg); }
+		}
+
+
+
+	
+			  
+				
+
