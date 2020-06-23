@@ -1,9 +1,68 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-    {% include head.html %}
-    <body>
-        {% include header-nav.html %}
-        {$ include 404.html}
-        {% include footer.html %}
-    </body>
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Fábrica de Software KNUTH</title>
+		<meta charset="utf-8" />
+		<link rel="shortcut icon" href="favicon.ico" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<link rel="stylesheet" href="assets/css/menu.css">
+		<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+		<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	</head>
+	<body>
+		<!-- Banner -->
+		<section>
+			<div class="responsive">
+				<img src="images/logo.png" alt="img-responsive" />
+			 </div>
+		</section>
+		<!-- Menu -->
+			<nav>
+				<ul>
+					<li class="logo"><a href="index.html">HOME</a></li>
+					<li class="items"><a href="pesquisa.html">Pesquisa</a></li>
+					<li class="items"><a href="projeto.html">Projetos</a></li>
+					<li class="items"><a href="tutorial.html">Tutoriais</a></li>
+					<li class="items"><a href="parceiro.html">Parceiros</a></li>
+					<li class="items"><a href="contato.html">Contato</a></li>
+					<li class="items"><a href="sobre.html">Sobre</a></li>
+					<li class="btn"><a href="#"><i class="fas fa-bars"></i></a></li>
+				</ul>
+				</nav>
+					<script>
+						$(document).ready(function(){
+						  $('.btn').click(function(){
+							$('.items').toggleClass("show");
+							$('ul li').toggleClass("hide");
+						  });
+						});
+					</script>
+		<!-- One -->
+		<section id="one" class="wrapper special">
+			<div class="inner">
+				<span class="image fit.align-center"> <img src="images/404.png" alt=""/> </a> </span>
+			</div>
+		</section>
+		<!-- Footer -->
+			<footer id="footer">
+				<ul class="icons">
+					<li><a href="https://www.youtube.com/channel/UCYtIIE3fzgp5jAsSXousDLQ" class="icon fa-youtube"><span class="label">YouTube</span></a></li>
+					<li><a href="https://instagram.com/fabricadesoftwareufs" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+					<li><a href="https://github.com/fabricadesoftwareufs" class="icon fa-github"><span class="label">Github</span></a></li>
+				</ul>
+				<div class="copyright">
+					&copy; FÁBRICA DE SOFTWARE KNUTH
+				</div>
+			</footer>
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+	</body>
 </html>
