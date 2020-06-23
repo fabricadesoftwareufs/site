@@ -3855,6 +3855,7 @@
 			}
 
 		}
+		
 		a {
 			margin: 10px 0px;
 			flex-direction: row;
@@ -3892,9 +3893,17 @@
 			font-size: 28px;
 			text-align: center;  } 
 
-
 		.loader {
-			display: block;
+			opacity: 0;
+			bottom: 50px;
+			transition: opacity 0.3s ease-in;
+		}
+			  
+		.loader.show {
+			opacity: 1;
+		}
+			  
+		.circle {
 			margin-left: auto;
 			margin-right: auto; 
 			border: 8px solid rgba(0,0,0, .1);
@@ -3905,25 +3914,25 @@
 			animation: spin 1s linear infinite;
 		}
 			  
-		.loader.show {
-			opacity: 1;
-		}
-
-		.loader:nth-of-type(2) {
+		.circle:nth-of-type(2) {
 			animation-delay: 0.1s;
-		  }
-		  
-		  .loader:nth-of-type(3) {
+		}
+			  
+		.circle:nth-of-type(3) {
 			animation-delay: 0.2s;
-		  }
-
+		}
+			  
+		@keyframes bounce {
+		0%,
+		100%{
+			transform: translateY(0);
+		}
+			  
+		50%{
+			transform: translateY(-10px);
+			}
+		}
+			  
 		@keyframes spin { 
 			to { transform: rotate(360deg); }
 		}
-
-
-
-	
-			  
-				
-
