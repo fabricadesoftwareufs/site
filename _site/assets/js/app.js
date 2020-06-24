@@ -1,5 +1,6 @@
 const postsContainer = document.querySelector('#posts-container')
 const loaderContainer = document.querySelector('.loader')
+const filterInput = document.querySelector('#filter')
 
 let page = 1
 
@@ -47,4 +48,6 @@ window.addEventListener('scroll', () => {
         showLoader()
     }
 })
+
+
 /* O vídeo acaba em 22:48 -- */
