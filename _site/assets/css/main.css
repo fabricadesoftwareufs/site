@@ -3853,7 +3853,6 @@
 			#footer {
 				padding: 2em 1em 0.1em 1em;
 			}
-
 		}
 		
 		a {
@@ -3893,6 +3892,11 @@
 			font-size: 28px;
 			text-align: center;  } 
 
+		.erro-404{
+			font-size: 80px;
+			margin-bottom: 2px;
+		}
+
 		.filter-container {
 			display: inline-block;
 			margin-left: auto;
@@ -3908,7 +3912,6 @@
 			font-size: 16px;
 			border: 0;
 			border-radius: 10px;
-			border-color: #008ac8;
 		}
 
 		.loader {
