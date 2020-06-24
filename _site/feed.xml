@@ -6,12 +6,12 @@
         <link>http://localhost:4000</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
         <description></description>
-        <lastBuildDate>Wed, 24 Jun 2020 16:29:33 -0300</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jun 2020 17:16:32 -0300</lastBuildDate>
         
         <item>
             <title>VI SEMINFO é realizada no Campus Prof. Alberto Carvalho</title>
             <link>
-                http://localhost:4000/projetos/eventos/2020/06/17/realizada-a-6-seminfo.html
+                http://localhost:4000/projetos/eventos/realizada-a-6-seminfo.html
             </link>
             <description>
                 
@@ -19,14 +19,14 @@
             </description>
             <pubDate>Wed, 17 Jun 2020 00:00:00 -0300</pubDate>
             <guid>
-                http://localhost:4000/projetos/eventos/2020/06/17/realizada-a-6-seminfo.html
+                http://localhost:4000/projetos/eventos/realizada-a-6-seminfo.html
             </guid>
         </item>
         
         <item>
             <title>Como fazer uma pirâmide no MatterControl</title>
             <link>
-                http://localhost:4000/tutoriais/impressora3d/2020/06/17/como-fazer-uma-piramide-no-matter-control.html
+                http://localhost:4000/tutoriais/impressora3d/como-fazer-uma-piramide-no-matter-control.html
             </link>
             <description>
                 
@@ -34,14 +34,14 @@
             </description>
             <pubDate>Wed, 17 Jun 2020 00:00:00 -0300</pubDate>
             <guid>
-                http://localhost:4000/tutoriais/impressora3d/2020/06/17/como-fazer-uma-piramide-no-matter-control.html
+                http://localhost:4000/tutoriais/impressora3d/como-fazer-uma-piramide-no-matter-control.html
             </guid>
         </item>
         
         <item>
             <title>Site da Fábrica de Software é lançado!</title>
             <link>
-                http://localhost:4000/produtos/software/2020/06/16/site-da-fabrica-de-software-e-lancado.html
+                http://localhost:4000/produtos/software/site-da-fabrica-de-software-e-lancado.html
             </link>
             <description>
                 &lt;p&gt;No último dia 16 de junho. A primeira versão do site da Fábrica de Software KNUTH foi lançada para toda sociedade! Entre algumas
@@ -51,7 +51,7 @@ Produtos...
             </description>
             <pubDate>Tue, 16 Jun 2020 00:00:00 -0300</pubDate>
             <guid>
-                http://localhost:4000/produtos/software/2020/06/16/site-da-fabrica-de-software-e-lancado.html
+                http://localhost:4000/produtos/software/site-da-fabrica-de-software-e-lancado.html
             </guid>
         </item>
         

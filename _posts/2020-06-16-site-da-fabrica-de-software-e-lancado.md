@@ -7,7 +7,7 @@ number: 1
 categories: produtos software
 layout: post
 description: No último dia 16 de junho. A primeira versão do site da Fábrica de Software KNUTH foi lançada para toda sociedade!   
-permalink: /:categories/:year/:month/:day/:title.html
+permalink: /:categories/:title.html
 ---
 
 No último dia 16 de junho. A primeira versão do site da Fábrica de Software KNUTH foi lançada para toda sociedade! Entre algumas

@@ -7,4 +7,5 @@ number: 3
 categories: projetos eventos
 layout: post
 description: Realizada entre os dias 11, 12 e 13 de dezembro de 2019 contou com o apoio da KNUTH.
+permalink: /:categories/:title.html
 ---
