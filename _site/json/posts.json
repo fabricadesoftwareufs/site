@@ -1,5 +1,12 @@
 [
   {
+    "number": 5,
+    "title": "Monitora SUS ajuda no combate a Covid-19",
+    "category": ["produtos","software"],
+    "url": "/site/produtos/software/monitora-sus-ajuda-no-combate-a-covid-19.html",
+    "description": "Um novo produto desenvolvido pela KNUTH e que foi lançado é o Monitora SUS seu principal objetivo é auxiliar profissionais de saúde e autoridades a terem estatisticas dos testes realizados de covid-19."
+  },
+  {
     "number": 4,
     "title": "Curso sobre impressão 3D é realizado na 6ª SEMAC",
     "category": ["projetos","cursos"],
