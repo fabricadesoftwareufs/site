@@ -46,7 +46,7 @@ const showLoader = () => {
 
 window.addEventListener('scroll', () => {
     const { clientHeight, scrollHeight, scrollTop } = document.documentElement
-    const isPageBottomAlmostReached = scrollTop + clientHeight >= scrollHeight - 10
+    const isPageBottomAlmostReached = scrollHeight - scrollTop === clientHeight;
 
     if (isPageBottomAlmostReached){
         showLoader()
@@ -68,6 +68,4 @@ filterInput.addEventListener('input', event => {
         post.style.display = 'none'
     })
 })
-
-
 /* O vídeo acaba em 22:48 -- */

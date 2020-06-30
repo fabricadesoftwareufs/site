@@ -6,35 +6,33 @@
         <link>http://localhost:4000</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
         <description></description>
-        <lastBuildDate>Wed, 24 Jun 2020 23:54:41 -0300</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jun 2020 23:45:32 -0300</lastBuildDate>
         
         <item>
-            <title>VI SEMINFO é realizada no Campus Prof. Alberto Carvalho</title>
+            <title>Realizada primeira live da KNUTH no YouTube!</title>
             <link>
-                http://localhost:4000/projetos/eventos/realizada-a-6-seminfo.html
+                http://localhost:4000/projetos/eventos/realizada-primeira-live-da-knuth-no-youtube.html
             </link>
             <description>
-                
-
+                &lt;p&gt;Aconteceu no dia 5 de maio e contou com o apoio da Itatech Jr. O tema foi Impressora 3D, foi discutido sobre como impressoras 3D podem ajudar na criação de equipamentos ao combate de Covid-19. O nosso colaborador João Alves Mendonça Junior contou a mais de 200 pessoas que assistiram a live como impressoras 3D podem revolucionar a industria 4.0., Igor Terriaga Santos foi o colaborador q...
             </description>
             <pubDate>Wed, 17 Jun 2020 00:00:00 -0300</pubDate>
             <guid>
-                http://localhost:4000/projetos/eventos/realizada-a-6-seminfo.html
+                http://localhost:4000/projetos/eventos/realizada-primeira-live-da-knuth-no-youtube.html
             </guid>
         </item>
         
         <item>
-            <title>Como fazer uma pirâmide no MatterControl</title>
+            <title>VI SEMINFO é realizada com apoio da KNUTH</title>
             <link>
-                http://localhost:4000/tutoriais/impressora3d/como-fazer-uma-piramide-no-matter-control.html
+                http://localhost:4000/projetos/eventos/realizada-a-6-seminfo.html
             </link>
             <description>
-                
-
+                &lt;p&gt;Entre os dias 11, 12 e 13 de dezembro de 2019 foi realizada a VI Semana de Informática (VI SEMINFO) contou com o apoio da KNUTH. Idealizada pela Itatech Jr a VI SEMINFO movimentou em três dias de evento o setor de tecnologia da informação em Itabaiana e região. Foram realizadas mais de dez palestras e quatro minicursos que levaram conhecimento a todos discentes participantes do Campus ...
             </description>
             <pubDate>Wed, 17 Jun 2020 00:00:00 -0300</pubDate>
             <guid>
-                http://localhost:4000/tutoriais/impressora3d/como-fazer-uma-piramide-no-matter-control.html
+                http://localhost:4000/projetos/eventos/realizada-a-6-seminfo.html
             </guid>
         </item>
         

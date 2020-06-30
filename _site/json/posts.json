@@ -1,23 +1,23 @@
 [
-    {
-        "number": 3,
-        "title": "VI SEMINFO é realizada no Campus Prof. Alberto Carvalho",
-        "category": ["projetos","eventos"],
-        "url": "/site/projetos/eventos/realizada-a-6-seminfo.html",
-        "description": "Realizada entre os dias 11, 12 e 13 de dezembro de 2019 contou com o apoio da KNUTH."
-    },
-    {
-        "number": 2,
-        "title": "Como fazer uma pirâmide no MatterControl",
-        "category": ["tutoriais","impressora3d"],
-        "url": "/site/tutoriais/impressora3d/como-fazer-uma-piramide-no-matter-control.html",
-        "description": "No novo vídeo adicionado no nosso canal ensina como fazer uma pirâmide num fatiador 3D! Primeiro para isso você precisa ter o MatterControl instalado no computador, certo?"
-    },
-    {
-        "number": 1,
-        "title": "Site da Fábrica de Software é lançado!",
-        "category": ["produtos","software"],
-        "url": "/site/produtos/software/site-da-fabrica-de-software-e-lancado.html",
-        "description": "No último dia 16 de junho. A primeira versão do site da Fábrica de Software KNUTH foi lançada para toda sociedade!"
-    }
+  {
+    "number": 3,
+    "title": "Realizada primeira live da KNUTH no YouTube!",
+    "category": ["projetos","eventos"],
+    "url": "/site/projetos/eventos/realizada-primeira-live-da-knuth-no-youtube.html",
+    "description": "Aconteceu no dia 5 de maio e contou com o apoio da Itatech Jr. O tema foi Impressora 3D, foi discutido sobre como impressoras 3D podem ajudar na criação de equipamentos ao combate de Covid-19. O nosso colaborador João Alves Mendonça Junior contou a mais de 200 pessoas que assistiram a live como impressoras 3D podem revolucionar a industria 4.0."
+  },
+  {
+    "number": 2,
+    "title": "VI SEMINFO é realizada com apoio da KNUTH",
+    "category": ["projetos","eventos"],
+    "url": "/site/projetos/eventos/realizada-a-6-seminfo.html",
+    "description": "Entre os dias 11, 12 e 13 de dezembro de 2019 foi realizada a VI Semana de Informática (VI SEMINFO) contou com o apoio da KNUTH. Idealizada pela Itatech Jr a VI SEMINFO movimentou em três dias de evento o setor de tecnologia da informação em Itabaiana e região. Foram realizadas mais de dez palestras e quatro minicursos que levaram conhecimento a todos os discentes envolvidos do Campus Prof. Alberto Carvalho."
+  },
+  {
+    "number": 1,
+    "title": "Site da Fábrica de Software é lançado!",
+    "category": ["produtos","software"],
+    "url": "/site/produtos/software/site-da-fabrica-de-software-e-lancado.html",
+    "description": "No último dia 16 de junho. A primeira versão do site da Fábrica de Software KNUTH foi lançada para toda sociedade! Entre algumas novidades temos os posts divididos em três categorias: projetos, tutoriais e produtos. Projetos é qualquer ação realizada pela Fábrica e seus parceiros, um dos projetos realizados até agora estão o apoio da KNUTH à 6ª Semana de Informática (SEMINFO)."
+  }
 ]
