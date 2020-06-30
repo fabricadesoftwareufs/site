@@ -6,7 +6,7 @@ author: João Alves
 number: 2
 categories: projetos eventos
 layout: post
-description: 'Entre os dias 11, 12 e 13 de dezembro de 2019 foi realizada a VI Semana de Informática (VI SEMINFO) contou com o apoio da KNUTH. Idealizada pela Itatech Jr a VI SEMINFO movimentou em três dias de evento o setor de tecnologia da informação em Itabaiana e região. Foram realizadas mais de dez palestras e quatro minicursos que levaram conhecimento a todos os discentes envolvidos do Campus Prof. Alberto Carvalho.'
+description: 'Entre os dias 11, 12 e 13 de dezembro de 2019 foi realizada a VI Semana de Informática (VI SEMINFO) contou com o apoio da KNUTH. Idealizada pela Itatech Jr a VI SEMINFO movimentou em três dias de evento o setor de tecnologia da informação em Itabaiana e região. Foram realizadas mais de dez palestras e quatro minicursos que levaram conhecimento a todos discentes envolvidos do Campus Prof. Alberto Carvalho.'
 permalink: /:categories/:title.html
 ---
 
