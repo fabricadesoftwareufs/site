@@ -1,17 +1,31 @@
 [
   {
-    "number": 5,
+    "number": 7,
+    "title": "Knuth auxilia na Implantação do BI Acadêmico",
+    "category": ["produtos","software"],
+    "url": "/site/produtos/software/knuth-auxilia-na-implantacao-do-bi-academico.html",
+    "description": "Com esta implementação em breve será possível analisar dados de todos os alunos da UFS como um grupo a fim de obter informações relevantes para tomada de decisão."
+  },
+  {
+    "number": 6,
     "title": "Monitora SUS ajuda no combate a Covid-19",
     "category": ["produtos","software"],
     "url": "/site/produtos/software/monitora-sus-ajuda-no-combate-a-covid-19.html",
-    "description": "Um novo produto desenvolvido pela KNUTH e que foi lançado é o Monitora SUS seu principal objetivo é auxiliar profissionais de saúde e autoridades a terem estatisticas dos testes realizados de covid-19."
+    "description": "Monitora SUS é o novo produto desenvolvido pela KNUTH e seu objetivo é auxiliar profissionais de saúde e autoridades a terem estatisticas dos testes realizados de covid-19 pela Universidade Federal de Sergipe e instituições parceiras. O Monitora SUS pode ser utilizado para mapear os testes de todos os municípios brasileiros."
   },
   {
-    "number": 4,
+    "number": 5,
     "title": "Curso sobre impressão 3D é realizado na 6ª SEMAC",
     "category": ["projetos","cursos"],
     "url": "/site/projetos/cursos/curso-sobre-impressao-3d-realizado-na-semac.html",
     "description": "A 6ª Semana Acadêmica (6ª SEMAC) realizada entre os dias 04 a 08 de novembro de 2019, contou com a ajuda da Fábrica de Software KNUTH que foi responsável por oferecer um curso sobre impressão 3D entitulado: \"Fundamentos de Impressão 3D\", ministrado pelo nosso colaborador João Alves Mendonça Junior e orientado pelo Prof. Marcos Barbosa Dósea."
+  },
+  {
+    "number": 4,
+    "title": "Conheça nosso canal no YouTube!",
+    "category": ["tutoriais","canal"],
+    "url": "/site/tutoriais/canal/conheca-nosso-canal-no-youtube.html",
+    "description": "Lançado no YouTube e com vídeos produzidos pelos membros da KNUTH seu objetivo é contribuir para o ensino de computação através de uma linguagem jovem."
   },
   {
     "number": 3,

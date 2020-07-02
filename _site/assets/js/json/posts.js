@@ -49,7 +49,7 @@ window.addEventListener('scroll', () => {
     const isPageBottomAlmostReached = scrollHeight - scrollTop === clientHeight;
 
     if (isPageBottomAlmostReached){
-        showLoader()
+        //showLoader()
     }
 })
 

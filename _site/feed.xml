@@ -6,7 +6,23 @@
         <link>http://localhost:4000</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
         <description></description>
-        <lastBuildDate>Tue, 30 Jun 2020 17:18:50 -0300</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jul 2020 13:31:54 -0300</lastBuildDate>
+        
+        <item>
+            <title>Knuth auxilia na Implantação do BI Acadêmico</title>
+            <link>
+                http://localhost:4000/produtos/software/knuth-auxilia-na-implantacao-do-bi-academico.html
+            </link>
+            <description>
+                &lt;p&gt;&lt;span class=&quot;image fit&quot;&gt; &lt;img alt=&quot;&quot; /&gt; &lt;img src=&quot;/site/images/post/knuth-bi-academico.png&quot; alt=&quot;curso-impressao-3d-2019&quot; /&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;O Knuth, no ano de 2019, com a ajuda dos bolsistas Felipe Passos, Marcos Soares e Victor Souza com idealização de André Britto e Marcos Dósea, no campus São Cristóvão, rea...
+            </description>
+            <pubDate>Thu, 02 Jul 2020 00:00:00 -0300</pubDate>
+            <guid>
+                http://localhost:4000/produtos/software/knuth-auxilia-na-implantacao-do-bi-academico.html
+            </guid>
+        </item>
         
         <item>
             <title>Monitora SUS ajuda no combate a Covid-19</title>
@@ -14,8 +30,7 @@
                 http://localhost:4000/produtos/software/monitora-sus-ajuda-no-combate-a-covid-19.html
             </link>
             <description>
-                
-
+                &lt;p&gt;Monitora SUS é o novo produto desenvolvido pela KNUTH e seu objetivo é auxiliar profissionais de saúde e autoridades a terem estatisticas dos testes realizados de covid-19 pela Universidade Federal de Sergipe e instituições parceiras. O Monitora SUS pode ser utilizado para mapear os testes de todos os municípios brasileiros, foi coordenado pelo Prof. Marcos Dósea e desenvolvido por dis...
             </description>
             <pubDate>Tue, 30 Jun 2020 00:00:00 -0300</pubDate>
             <guid>
@@ -34,6 +49,21 @@
             <pubDate>Tue, 30 Jun 2020 00:00:00 -0300</pubDate>
             <guid>
                 http://localhost:4000/projetos/cursos/curso-sobre-impressao-3d-realizado-na-semac.html
+            </guid>
+        </item>
+        
+        <item>
+            <title>Conheça nosso canal no YouTube!</title>
+            <link>
+                http://localhost:4000/tutoriais/canal/conheca-nosso-canal-no-youtube.html
+            </link>
+            <description>
+                
+
+            </description>
+            <pubDate>Tue, 30 Jun 2020 00:00:00 -0300</pubDate>
+            <guid>
+                http://localhost:4000/tutoriais/canal/conheca-nosso-canal-no-youtube.html
             </guid>
         </item>
         

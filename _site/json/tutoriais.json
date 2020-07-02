@@ -1,2 +1,9 @@
 [
+    {
+        "number": 4,
+        "title": "Conheça nosso canal no YouTube!",
+        "category": ["tutoriais","canal"],
+        "url": "/site/tutoriais/canal/conheca-nosso-canal-no-youtube.html",
+        "description": "Lançado no YouTube e com vídeos produzidos pelos membros da KNUTH seu objetivo é contribuir para o ensino de computação através de uma linguagem jovem."
+    }
 ]
