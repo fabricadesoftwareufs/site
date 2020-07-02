@@ -10,7 +10,7 @@ description: 'Com esta implementação em breve será possível analisar dados d
 permalink: /:categories/:title.html
 ---
 
-<span class="image fit"> <img alt=""> ![curso-impressao-3d-2019](/site/images/post/knuth-bi-academico.png) </span>
+<span class="image fit"> <img alt=""> ![knuth-bi-academico](/site/images/post/knuth-bi-academico.png) </span>
 
 O Knuth, no ano de 2019, com a ajuda dos bolsistas Felipe Passos, Marcos Soares e Victor Souza com idealização de André Britto e Marcos Dósea, no campus São Cristóvão, realizaram o início do desenvolvimento e planejamento do Data Warehouse da UFS. Para construção de qualquer DW é necessário seguir algumas etapas como extração, transformação e carregamento de dados, formação de esquema estrela e criação de cubo OLAP, para entender melhor sobre o que é um DW acesse este [link](https://canaltech.com.br/business-intelligence/conhecendo-a-arquitetura-de-data-warehouse-19266/).
 

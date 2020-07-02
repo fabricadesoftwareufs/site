@@ -4,25 +4,17 @@
     <body>
         {% include header-nav.html %}
         <section id="three" class="wrapper">
-            <div class="inner">
-                <div class="filter-container">
-                    <input
-                        type="text"
-                        id="filter"
-                        class="filter"
-                        placeholder="Pesquisar"
-                        autofocus
-                    />
+			<div class="inner">  
+                {% assign sorted-posts = site.posts | where: "categories","produtos" %}
+                <div class="post">
+                {% for post in sorted-posts limit: 3 %}
+                    <h2 class="post-title"> <a href="/site{{ post.url }}"> {{ post.title-produto}} </a><h2>
+                    <h1 class="post-description"> {{ post.description }} </h1>
+                    <h1 class="button special"> <a href="/site{{ post.url }}"> Leia mais </a> </h1>
+                {% endfor %}
                 </div>
             </div>
-            <div class="inner">
-                <div id="posts-container" class="posts-container"></div>
-            </div>
-            <div class="loader">
-                <div class="circle"></div>
-            </div>
         </section>
-        <script src="/site/assets/js/json/produtos.js"></script>
+        {% include footer.html %}
     </body>
-    {% include footer.html %}
 </html>

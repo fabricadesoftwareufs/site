@@ -1,0 +1,23 @@
+[
+    {
+        "number": 7,
+        "title": "Knuth auxilia na Implantação do BI Acadêmico",
+        "category": ["produtos","software"],
+        "url": "/site/produtos/software/knuth-auxilia-na-implantacao-do-bi-academico.html",
+        "description": "Com esta implementação em breve será possível analisar dados de todos os alunos da UFS como um grupo a fim de obter informações relevantes para tomada de decisão."
+    }
+    {
+        "number": 6,
+        "title": "Monitora SUS ajuda no combate a Covid-19",
+        "category": ["produtos","software"],
+        "url": "/site/produtos/software/monitora-sus-ajuda-no-combate-a-covid-19.html",
+        "description": "Monitora SUS é o novo produto desenvolvido pela KNUTH e seu objetivo é auxiliar profissionais de saúde e autoridades a terem estatisticas dos testes realizados de covid-19 pela Universidade Federal de Sergipe e instituições parceiras. O Monitora SUS pode ser utilizado para mapear os testes de todos os municípios brasileiros."
+    }
+    {
+        "number": 1,
+        "title": "Site da Fábrica de Software é lançado!",
+        "category": ["produtos","software"],
+        "url": "/site/produtos/software/site-da-fabrica-de-software-e-lancado.html",
+        "description": "No último dia 16 de junho. A primeira versão do site da Fábrica de Software KNUTH foi lançada para toda sociedade! Entre algumas novidades temos os posts divididos em três categorias: projetos, tutoriais e produtos. Projetos é qualquer ação realizada pela Fábrica e seus parceiros, um dos projetos realizados até agora estão o apoio da KNUTH à 6ª Semana de Informática (SEMINFO)."
+    }
+]
