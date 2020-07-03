@@ -7,7 +7,7 @@
 			<div class="inner">  
                 {% assign sorted-posts = site.posts | where: "categories","projetos" %}
                 <div class="post">
-                {% for post in sorted-posts limit: 3 %}
+                {% for post in sorted-posts limit: 10 %}
                     <h2 class="post-title"> <a href="/site{{ post.url }}"> {{ post.title-projeto}} </a><h2>
                     <h1 class="post-description"> {{ post.description }} </h1>
                     <h1 class="button special"> <a href="/site{{ post.url }}"> Leia mais </a> </h1>

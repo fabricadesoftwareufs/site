@@ -1,12 +1,12 @@
 ---
-title-produto: 'Knuth auxilia na Implantação do BI Acadêmico'
-title-page: 'Knuth auxilia na Implantação do BI Acadêmico'
-title: 'Knuth auxilia na Implantação do BI Acadêmico'
+title-produto: 'Knuth auxilia na implantação do BI Acadêmico'
+title-page: 'Knuth auxilia na implantação do BI Acadêmico'
+title: 'Knuth auxilia na implantação do BI Acadêmico'
 author: Felipe Passos
-number: 7
+number: 8
 categories: produtos software
 layout: post
-description: 'Com esta implementação em breve será possível analisar dados de todos os alunos da UFS como um grupo a fim de obter informações relevantes para tomada de decisão.'
+description: 'O projeto busca garantir a análise de dados de todos os alunos da UFS, como um grupo, a fim de obter informações relevantes que auxilie e melhore as decisões que afetam o corpo discente.'
 permalink: /:categories/:title.html
 ---
 

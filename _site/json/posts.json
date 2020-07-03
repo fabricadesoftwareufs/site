@@ -1,10 +1,17 @@
 [
   {
-    "number": 7,
-    "title": "Knuth auxilia na Implantação do BI Acadêmico",
+    "number": 8,
+    "title": "Knuth auxilia na implantação do BI Acadêmico",
     "category": ["produtos","software"],
     "url": "/site/produtos/software/knuth-auxilia-na-implantacao-do-bi-academico.html",
-    "description": "Com esta implementação em breve será possível analisar dados de todos os alunos da UFS como um grupo a fim de obter informações relevantes para tomada de decisão."
+    "description": "O projeto busca garantir a análise de dados de todos os alunos da UFS, como um grupo, a fim de obter informações relevantes que auxilie e melhore as decisões que afetam o corpo discente."
+  },
+  {
+    "number": 7,
+    "title": "Graduandos de Sistemas de Informação auxiliam KNUTH a modelar processos da UFS",
+    "category": ["projetos","institucional"],
+    "url": "/site/projetos/institucional/graduandos-de-sistemas-de-informacao-auxiliam-knuth.html",
+    "description": "O trabalho de conclusão de curso entitulado: \"Modelagem de Processos das Chefias Departamentais da Universidade Federal de Sergipe\" dos alunos Emerson Santos de Oliveira e Paulo Vitor dos Santos do curso Sistemas de Informação/DSI."
   },
   {
     "number": 6,
@@ -43,9 +50,9 @@
   },
   {
     "number": 1,
-    "title": "Site da Fábrica de Software é lançado!",
+    "title": "Site da Fábrica de Software KNUTH é lançado!",
     "category": ["produtos","software"],
-    "url": "/site/produtos/software/site-da-fabrica-de-software-e-lancado.html",
+    "url": "/site/produtos/software/site-da-fabrica-de-software-knuth-e-lancado.html",
     "description": "No último dia 16 de junho. A primeira versão do site da Fábrica de Software KNUTH foi lançada para toda sociedade! Entre algumas novidades temos os posts divididos em três categorias: projetos, tutoriais e produtos. Projetos é qualquer ação realizada pela Fábrica e seus parceiros, um dos projetos realizados até agora estão o apoio da KNUTH à 6ª Semana de Informática (SEMINFO)."
   }
 ]

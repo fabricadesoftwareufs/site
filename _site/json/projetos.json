@@ -1,5 +1,12 @@
 [
     {
+        "number": 7,
+        "title": "Graduandos de Sistemas de Informação auxiliam KNUTH a modelar processos da UFS",
+        "category": ["projetos","institucional"],
+        "url": "/site/projetos/institucional/graduandos-de-sistemas-de-informacao-auxiliam-knuth.html",
+        "description": "O trabalho de conclusão de curso entitulado: \"Modelagem de Processos das Chefias Departamentais da Universidade Federal de Sergipe\" dos alunos Emerson Santos de Oliveira e Paulo Vitor dos Santos do curso Sistemas de Informação/DSI."
+    }
+    {
         "number": 5,
         "title": "Curso sobre impressão 3D é realizado na 6ª SEMAC",
         "category": ["projetos","cursos"],
