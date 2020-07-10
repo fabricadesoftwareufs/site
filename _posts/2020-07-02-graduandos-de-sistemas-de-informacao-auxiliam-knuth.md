@@ -1,15 +1,19 @@
----
-title-projeto: 'Graduandos de Sistemas de Informação auxiliam KNUTH a modelar processos da UFS'
-title-page: 'Graduandos de Sistemas de Informação auxiliam KNUTH a modelar processos da UFS'
-title: 'Graduandos de Sistemas de Informação auxiliam KNUTH a modelar processos da UFS'
+﻿---
+title-projeto: 'Portal de Processos da UFS é Disponibilizado'
+title-page: 'Portal de Processos da UFS é Disponibilizado'
+title: 'Portal de Processos da UFS é Disponibilizado'
 author: João Alves
 number: 7
 categories: projetos institucional
 layout: post
-description: 'O trabalho de conclusão de curso entitulado: "Modelagem de Processos das Chefias Departamentais da Universidade Federal de Sergipe" dos alunos Emerson Santos de Oliveira e Paulo Vitor dos Santos do curso Sistemas de Informação/DSI.'
+description: 'O portal '
 permalink: /:categories/:title.html
 ---
 
-O trabalho de conclusão de curso entitulado: "Modelagem de Processos das Chefias Departamentais da Universidade Federal de Sergipe" dos alunos Emerson Santos de Oliveira e Paulo Vitor dos Santos do curso Sistemas de Informação/DSI tem como objetivo modelar os processos de negócio da UFS e seus departamentos, antes que um proecesso seja transformado em software é necessário entender o funcionamento do negócio, a orientação do TCC ficou sob responsabilidade do coordenador da KNUTH, prof. Marcos Barbosa Dósea. Você pode conferir os processos modelados em notação BPMN no site do projeto. 
+O portal integra resoluções, manuais do sistema e fluxogramas dos principais processos da UFS. Foi desenvolvido como um ambiente colaborativo que permite que qualquer servidor ou aluno da intituição possa contribuir com novos processos, solicitar mudanças nos processos existentes de forma segura e com rastreabilidade das ações. Os processos acadêmicos das chefias departamentais foram os primeiros a serem disponibilizados.
 
-[Clique aqui](https://fabricadesoftwareufs.github.io/ProcessosUFS/) para acessar o site do projeto.
+A plataforma foi desenvolvido com o apoio da KNUTH e do STI/UFS através do um trabalho de conclusão dos alunos do Departamento de Sistemas de Informação (DSI/UFS) Emerson Santos de Oliveira e Paulo Vitor dos Santos, orientado pelos professores Marcos Dósea e Raphael Pereira.
+
+A KNUTH também ficará responsável pelo gerenciando do portal e para passar informações a servidores, professores e alunos quem quiserem colaborar com outros processos da instituição através do email de contato fabricadesoftware@ufs.br.
+
+[Clique aqui](https://www.ufs.br/processos) para acessar o site do projeto.
