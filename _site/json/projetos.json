@@ -1,10 +1,17 @@
 [
     {
+        "number": 9,
+        "title": "KNUTH realiza treinamentos para Product Owner na UFS",
+        "category": ["projetos","cursos"],
+        "url": "/site/projetos/cursos/knuth-realiza-treinamentos-para-product-owner-na-ufs.html",
+        "description": "A Knuth vem apoiando o processo de melhoria contínua do processo de desenvolvimento de software do STI/UFS."
+    }
+    {
         "number": 7,
-        "title": "Graduandos de Sistemas de Informação auxiliam KNUTH a modelar processos da UFS",
+        "title": "Portal de Processos da UFS é Disponibilizado",
         "category": ["projetos","institucional"],
-        "url": "/site/projetos/institucional/graduandos-de-sistemas-de-informacao-auxiliam-knuth.html",
-        "description": "O trabalho de conclusão de curso entitulado: \"Modelagem de Processos das Chefias Departamentais da Universidade Federal de Sergipe\" dos alunos Emerson Santos de Oliveira e Paulo Vitor dos Santos do curso Sistemas de Informação/DSI."
+        "url": "/site/projetos/institucional/portal-de-processos-ufs-e-disponibilizado.html",
+        "description": " O portal integra resoluções, manuais do sistema e fluxogramas dos principais processos da UFS"
     }
     {
         "number": 5,

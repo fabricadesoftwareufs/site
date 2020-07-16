@@ -16,7 +16,16 @@
 	<script src="/site/assets/js/util.js"></script>
 	<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 	<script src="/site/assets/js/main.js"></script>
+	<!-- Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-172625783-1"></script>
+		<script>
+  			window.dataLayer = window.dataLayer || [];
+  			function gtag(){dataLayer.push(arguments);}
+  			gtag('js', new Date());
+  			gtag('config', 'UA-172625783-1');
+		</script>
 </head>
+
     <body>
 				<!-- Banner -->
 		<section>
@@ -66,13 +75,14 @@
         };
             (function() { // DON'T EDIT BELOW THIS LINE
                 var d = document, s = d.createElement('script');
-                s.src = 'https://fabrica-de-software-knuth.disqus.com/embed.js';
+                s.src = 'https://fabricadesoftware.disqus.com/embed.js';
                 s.setAttribute('data-timestamp', +new Date());
                 (d.head || d.body).appendChild(s);
             })();
         </script>
     </div>
 </section>
+
 			</div>
 		</section>
         <!-- Footer -->
