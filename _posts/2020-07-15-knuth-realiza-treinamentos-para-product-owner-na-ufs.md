@@ -3,7 +3,7 @@ title-projeto: 'KNUTH realiza treinamentos para Product Owner na UFS'
 title-page: 'KNUTH realiza treinamentos para Product Owner na UFS'
 title: 'KNUTH realiza treinamentos para Product Owner na UFS'
 author: Marcos Dósea
-number: 9
+number: 10
 categories: projetos cursos
 layout: post
 description: 'A Knuth vem apoiando o processo de melhoria contínua do processo de desenvolvimento de software do STI/UFS.'

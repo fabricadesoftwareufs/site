@@ -3,7 +3,7 @@ title-projeto: 'Portal de Processos da UFS é Disponibilizado'
 title-page: 'Portal de Processos da UFS é Disponibilizado'
 title: 'Portal de Processos da UFS é Disponibilizado'
 author: João Alves
-number: 7
+number: 9
 categories: projetos institucional
 layout: post
 description: ' O portal integra resoluções, manuais do sistema e fluxogramas dos principais processos da UFS'

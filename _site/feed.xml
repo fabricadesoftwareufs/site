@@ -5,7 +5,7 @@
         <link>http://localhost:4000</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
         <description></description>
-        <lastBuildDate>Wed, 15 Jul 2020 22:17:32 -0300</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2020 22:22:27 -0300</lastBuildDate>
         
         <item>
             <title>KNUTH realiza treinamentos para Product Owner na UFS</title>
@@ -50,6 +50,20 @@
             <pubDate>Thu, 02 Jul 2020 00:00:00 -0300</pubDate>
             <guid>
                 http://localhost:4000/produtos/software/knuth-auxilia-na-implantacao-do-bi-academico.html
+            </guid>
+        </item>
+        
+        <item>
+            <title>Portal de Processos da UFS é Disponibilizado</title>
+            <link>
+                http://localhost:4000/projetos/institucional/graduandos-de-sistemas-de-informacao-auxiliam-knuth.html
+            </link>
+            <description>
+                &lt;p&gt;O portal integra resoluções, manuais do sistema e fluxogramas dos principais processos da UFS. Foi desenvolvido como um ambiente colaborativo que permite que qualquer servidor ou aluno da intituição possa contribuir com novos processos, solicitar mudanças nos processos existentes de forma segura e com rastreabilidade das ações. Os processos acadêmicos das chefias departamentais foram o...
+            </description>
+            <pubDate>Thu, 02 Jul 2020 00:00:00 -0300</pubDate>
+            <guid>
+                http://localhost:4000/projetos/institucional/graduandos-de-sistemas-de-informacao-auxiliam-knuth.html
             </guid>
         </item>
         
