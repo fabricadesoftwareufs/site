@@ -5,7 +5,23 @@
         <link>http://localhost:4000</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
         <description></description>
-        <lastBuildDate>Wed, 15 Jul 2020 22:22:27 -0300</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2020 21:10:50 -0300</lastBuildDate>
+        
+        <item>
+            <title>Melhorias no Processo de Desenvolvimento de Software do STI/UFS</title>
+            <link>
+                http://localhost:4000/projetos/cursos/melhorias-no-processo-de-desenvolvimento-de-software-do-sti.html
+            </link>
+            <description>
+                &lt;p&gt;Desde o início de 2019 a Knuth/UFS vem trabalhando em colaboração com o STI/UFS para implatanção de um novo conjunto de melhorias no processo de desenvolvimento de software do STI/UFS. O objetivo principal foi concretizar a implantação de princípios ágeis usando como base o framework Scrum.&lt;/p&gt;
+
+&lt;p&gt;O trabalho vem sendo desenvolvido por uma equipe composta pelo Prof. Marcos ...
+            </description>
+            <pubDate>Thu, 30 Jul 2020 00:00:00 -0300</pubDate>
+            <guid>
+                http://localhost:4000/projetos/cursos/melhorias-no-processo-de-desenvolvimento-de-software-do-sti.html
+            </guid>
+        </item>
         
         <item>
             <title>KNUTH realiza treinamentos para Product Owner na UFS</title>
